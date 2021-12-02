@@ -4,7 +4,7 @@ Languages planned & used:
 | Day | Language    | Rating | Comment |
 | ---:| ----------- |:------:| ------- |
 |  01 | COBOL       |   6/10 | i can sort of see why it's still being used |
-|   - | Common Lisp |   -/10 |  |
+|  02 | Common Lisp |   2/10 | ))))))))))))))))))))) |
 |   - | APL         |   -/10 |  |
 |   - | Erlang      |   -/10 |  |
 |   - | Clojure     |   -/10 |  |
