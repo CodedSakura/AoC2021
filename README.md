@@ -5,7 +5,7 @@ Languages planned & used:
 | ---:| ----------- |:------:| ------- |
 |  01 | COBOL       |   6/10 | i can sort of see why it's still being used |
 |  02 | Common Lisp |   2/10 | ))))))))))))))))))))) |
-|   - | APL         |   -/10 |  |
+|  03 | APL         |   6/10 | quite fun to research & fail to do basic things (: |
 |   - | Erlang      |   -/10 |  |
 |   - | Clojure     |   -/10 |  |
 |   - | Bash        |   -/10 |  |
