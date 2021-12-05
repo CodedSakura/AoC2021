@@ -7,7 +7,7 @@ Languages planned & used:
 |  02 | Common Lisp |   2/10 | ))))))))))))))))))))) |
 |  03 | APL         |   6/10 | quite fun to research & fail to do basic things (: |
 |  04 | Erlang      |   5/10 | it hates lists..., working with only recursion (mostly) is pretty interesting |
-|   - | Clojure     |   -/10 |  |
+|  05 | Clojure     |   6/10 | *much* better than lisp, while still )))))))))) |
 |   - | Bash        |   -/10 |  |
 |   - | OCaml       |   -/10 |  |
 |   - | PHP         |   -/10 |  |
