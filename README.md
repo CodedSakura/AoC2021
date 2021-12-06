@@ -8,7 +8,7 @@ Languages planned & used:
 |  03 | APL         |   6/10 | quite fun to research & fail to do basic things (: |
 |  04 | Erlang      |   5/10 | it hates lists..., working with only recursion (mostly) is pretty interesting |
 |  05 | Clojure     |   6/10 | *much* better than lisp, while still )))))))))) |
-|   - | Bash        |   -/10 |  |
+|  06 | Bash        |   7/10 | was reasonable for today's 'challenge' |
 |   - | OCaml       |   -/10 |  |
 |   - | PHP         |   -/10 |  |
 |   - | D           |   -/10 |  |
