@@ -10,7 +10,7 @@ Languages planned & used:
 |  05 | Clojure     |   6/10 | *much* better than lisp, while still )))))))))) |
 |  06 | Bash        |   7/10 | was reasonable for today's 'challenge' |
 |  07 | OCaml       |   5/10 | syntax was confusing at first, and i didn't get to more complicated parts of the language |
-|   - | PHP         |   -/10 |  |
+|  08 | PHP         |   6/10 | _PHP_ |
 |   - | D           |   -/10 |  |
 |   - | C#          |   -/10 |  |
 |   - | R           |   -/10 |  |
