@@ -11,7 +11,7 @@ Languages planned & used:
 |  06 | Bash        |   7/10 | was reasonable for today's 'challenge' |
 |  07 | OCaml       |   5/10 | syntax was confusing at first, and i didn't get to more complicated parts of the language |
 |  08 | PHP         |   6/10 | _PHP_ |
-|   - | D           |   -/10 |  |
+|  09 | D           |   6/10 | vaguely Java-like C++-esque language that has like no good docs :pensive: |
 |   - | C#          |   -/10 |  |
 |   - | R           |   -/10 |  |
 |   - | C           |   -/10 |  |
