@@ -12,7 +12,7 @@ Languages planned & used:
 |  07 | OCaml       |   5/10 | syntax was confusing at first, and i didn't get to more complicated parts of the language |
 |  08 | PHP         |   6/10 | _PHP_ |
 |  09 | D           |   6/10 | vaguely Java-like C++-esque language that has like no good docs :pensive: |
-|   - | C#          |   -/10 |  |
+|  10 | C#          |   8/10 | intuitive to write for the most part |
 |   - | R           |   -/10 |  |
 |   - | C           |   -/10 |  |
 |   - | Perl        |   -/10 |  |
