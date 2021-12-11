@@ -13,7 +13,7 @@ Languages planned & used:
 |  08 | PHP         |   6/10 | _PHP_ |
 |  09 | D           |   6/10 | vaguely Java-like C++-esque language that has like no good docs :pensive: |
 |  10 | C#          |   8/10 | intuitive to write for the most part |
-|   - | R           |   -/10 |  |
+|  11 | R           |   7/10 | great language for data analysis, not so great for cellular automata |
 |   - | C           |   -/10 |  |
 |   - | Perl        |   -/10 |  |
 |   - | Groovy      |   -/10 |  |
